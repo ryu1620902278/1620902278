@@ -1,4 +1,4 @@
-msg = "My name is P"
+msg = "My name is jirapong"
 
 print(msg)
 
